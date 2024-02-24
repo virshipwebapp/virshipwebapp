@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  c++
 - 💞️ I’m looking to collaborate on goverment projects
 - 📫 How to reach me with the help of github
-- 😄 Pronouns: let's do some crazy things together
+- 😄 Pronouns: her/she
 - ⚡ Fun fact: i am not that good at coding
 
 <!---
