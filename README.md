@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @virshipwebapp
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Vaishnavi Mishra
+- 👀 I’m interested in teamwork
 - 🌱 I’m currently learning  c++
 - 💞️ I’m looking to collaborate on goverment projects
 - 📫 How to reach me with the help of github
